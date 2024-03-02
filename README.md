@@ -1,4 +1,5 @@
-  This is a gobang (aka. gomoku, five in a row, etc) game.
-  You can battle with another player on another PC through TCP-IP protocol(sockets). 
-  You can also battle with an AI. 
-  The user interface is well-designed. The music is also carefully selected. 
+Welcome to our Gobang game, also known as Gomoku or Five in a Row,
+where you can challenge another player online using TCP-IP protocol (sockets),
+or test your skills against an AI opponent.
+Featuring a user-friendly interface and thoughtfully curated music,
+our game promises an engaging experience for all players.
